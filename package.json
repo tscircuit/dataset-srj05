@@ -1,0 +1,17 @@
+{
+  "name": "@tscircuit/dataset-srj05",
+  "version": "0.0.1",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "format": "biome format --write"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.4.6",
+    "@types/bun": "latest",
+    "tscircuit": "^0.0.1500"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
