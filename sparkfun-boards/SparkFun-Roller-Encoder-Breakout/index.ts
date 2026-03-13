@@ -1,2 +1,2 @@
-export { default } from "./SparkFun-Roller-Encoder-Breakout.circuit.simple-route.json"
-export { default as sparkfunRollerEncoderBreakoutCircuit } from "./SparkFun-Roller-Encoder-Breakout.circuit.simple-route.json"
+export { default } from "./sample056_SparkFun-Roller-Encoder-Breakout.circuit.simple-route.json"
+export { default as sample056SparkfunRollerEncoderBreakoutCircuit } from "./sample056_SparkFun-Roller-Encoder-Breakout.circuit.simple-route.json"
