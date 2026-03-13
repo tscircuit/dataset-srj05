@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "format": "biome format --write",
-    "format:check": "biome format --check"
+    "format:check": "biome format . --error-on-warnings"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.4.6",
