@@ -1,2 +1,2 @@
-export { default } from "./SparkFun-Haptic-Motor-Driver-DRV2605L.circuit.simple-route.json"
-export { default as sparkfunHapticMotorDriverDrv2605lCircuit } from "./SparkFun-Haptic-Motor-Driver-DRV2605L.circuit.simple-route.json"
+export { default } from "./sample021_SparkFun-Haptic-Motor-Driver-DRV2605L.circuit.simple-route.json"
+export { default as sample021SparkfunHapticMotorDriverDrv2605lCircuit } from "./sample021_SparkFun-Haptic-Motor-Driver-DRV2605L.circuit.simple-route.json"

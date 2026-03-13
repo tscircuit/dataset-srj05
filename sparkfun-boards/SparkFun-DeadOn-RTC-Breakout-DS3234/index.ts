@@ -1,2 +1,2 @@
-export { default } from "./SparkFun-DeadOn-RTC-Breakout-DS3234.circuit.simple-route.json"
-export { default as sparkfunDeadonRtcBreakoutDs3234Circuit } from "./SparkFun-DeadOn-RTC-Breakout-DS3234.circuit.simple-route.json"
+export { default } from "./sample014_SparkFun-DeadOn-RTC-Breakout-DS3234.circuit.simple-route.json"
+export { default as sample014SparkfunDeadonRtcBreakoutDs3234Circuit } from "./sample014_SparkFun-DeadOn-RTC-Breakout-DS3234.circuit.simple-route.json"
