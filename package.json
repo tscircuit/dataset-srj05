@@ -1,7 +1,7 @@
 {
   "name": "@tscircuit/dataset-srj05",
   "version": "0.0.1",
-  "main": "index.ts",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "format": "biome format --write",
